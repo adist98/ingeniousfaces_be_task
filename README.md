@@ -1,3 +1,4 @@
+## Steps to run the script
 1. Clone this repo.
 2. After cloning this branch, please run *git checkout feat/backend_task* to hop on to the correct branch.
 3. Once you've cloned this branch, you'll then have to install all the dependencies. You can run npm install to do that.
